@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="WindowAlina" Height="450" Width="800">
     <Grid>
+        <Label Content="Alina" FontSize="40"/>
+        <Button Content="Alina" Margin="0,74,673,322" />
         
     </Grid>
 </Window>
