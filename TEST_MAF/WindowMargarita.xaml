@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="WindowMargarita" Height="450" Width="800">
     <Grid>
-        
+        <StackPanel>
+            <Label Content="HI" FontSize="20" FontStyle="Italic"/>
+            <Button Content="HI" Width="50" FontSize="20"/>
+        </StackPanel>
     </Grid>
 </Window>
